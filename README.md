@@ -1,2 +1,2 @@
 # Lightweight-Face-Mask-Detection
-# Lightweight-Face-Mask-Detection
+# Project for Course Artificial Intelligence 
